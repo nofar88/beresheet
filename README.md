@@ -14,4 +14,13 @@ The PID controller consists of 3 components:
   The returned value allows us to increase or decrease the gas intensity (the NN parameter).
 
 ## The results of the experiment
+A graph of alt versus time:
+![enter image description here](https://github.com/nofar88/beresheet/blob/master/graphs/alt.png?raw=true)
 
+A graph of fuel versus time:
+![enter image description here](https://github.com/nofar88/beresheet/blob/master/graphs/fuel.png?raw=true)
+
+A graph of vertical speed versus time:
+![enter image description here](https://github.com/nofar88/beresheet/blob/master/graphs/vs.png?raw=true)
+
+The spacecraft landed in VS of 2.055m/s and with 20.0299 liters of fuel.
